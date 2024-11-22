@@ -1,0 +1,182 @@
+product_group1|kenan_id|kenan_desc|category_type|edis_id|edis_desc
+PG1935|1578|CMA - Astro Home 30Mbps RM89|package|1578|FTTH 30 Mbps(ASTRO)
+PG1010|1622|Z EXPIRED BizFibre Dynamic - 16Mbps With WBB Package|package|1622|BizFibre Dynamic - 16Mbps With WBB Package
+PG1935|1643|MaxisOne Home 30Mbps RM89|package|1643|Fibre 30 Mbps
+PG1935|1644|MaxisOne Home 100Mbps RM129|package|1644|Fibre 100 Mbps
+PG1010|1645|Business Fibre Dynamic - 30Mbps Package|package|1645|Dynamic 30 Mbps
+PG1010|1646|Business Fibre Dynamic - 100Mbps Package|package|1646|Dynamic 100 Mbps
+PG1010|1647|Business Fibre Fixed - 30Mbps Package|package|1647|Fixed 30 Mbps
+PG1010|1648|Business Fibre Fixed - 100Mbps Package|package|1648|Fixed 100 Mbps
+PG1935|1650|MaxisOne Home 300Mbps RM149|package|1650|Fibre 300 Mbps
+PG1935|1651|MaxisOne Home 500Mbps RM219|package|1651|Fibre 500 Mbps
+PG1010|1653|Business Fibre Dynamic - 300Mbps Package|package|1653|Dynamic 300 Mbps
+PG1010|1654|Business Fibre Dynamic - 500Mbps Package|package|1654|Dynamic 500 Mbps
+PG1010|1655|Business Fibre Dynamic - 800Mbps Package|package|1655|Dynamic 800 Mbps
+PG1010|1656|Business Fibre Fixed - 300Mbps Package|package|1656|Fixed 300 Mbps
+PG1010|1657|Business Fibre Fixed - 500Mbps Package|package|1657|Fixed 500 Mbps
+PG1010|1658|Business Fibre Fixed - 800Mbps Package|package|1658|Fixed 800 Mbps
+PG1935|1686|CMA - Astro Home DTH 30Mbps RM89|package|1686|Astro Fibre 30Mbps
+PG1035|6085|MES - mDrive Customised Solution - Base Package |package|6085|MES - mDrive Customised Solution - Base Package 
+PG1015|6094|MES - Webstore Build Plus Upfront - Base Package|package|6094|MES - Webstore Build Plus Upfront - Base Package
+PG1015|6095|MES - Website Build Plus Upfront - Base Package|package|6095|MES - Website Build Plus Upfront - Base Package
+PG1050|6105|MES - Microsoft Teams Calling E5 - Base Package|package|6105|MES - Microsoft Teams Calling E5 - Base Package
+PG1015|6115|MES - Webstore Build Lite Upfront - Base Package|package|6115|MES - Webstore Build Lite Upfront - Base Package
+PG1015|6179|MES - Cloud POS Lite FnB - Base Package|package|6179|MES - Cloud POS Lite FnB - Base Package
+PG1015|6180|MES - Cloud POS Lite FnB Bundle - Base Package|package|6180|MES - Cloud POS Lite FnB Bundle - Base Package
+PG1015|6193|MES - Digital Marketing Advanced - Base Package|package|6193|MES - Digital Marketing Advanced - Base Package
+PG1050|6216|MES - Andorra - Mandatory Package|package|6216|MES - Andorra - Mandatory Package
+PG1015|6502|NEW MES - Cloud POS Retail - Base Package|package|6502|NEW MES - Cloud POS Retail - Base Package
+PG1035|6504|NEW MES - Enhanced mDrive Wired Solution - Base Package|package|6504|NEW MES - Enhanced mDrive Wired Solution - Base Package
+PG1035|6506|NEW MES - mDrive Plug N Play - Base Package|package|6506|NEW MES - mDrive Plug N Play - Base Package
+PG1015|6512|NEW MES - M365 Business Basic - Base Package|package|6512|NEW MES - M365 Business Basic - Base Package
+PG1015|6514|NEW MES - M365 Business Standard - Base Package|package|6514|NEW MES - M365 Business Standard - Base Package
+PG1015|6574|MES - Managed Voice Cloud - Base Package|package|6574|MES - Managed Voice Cloud - Base Package
+PG1050|30062|NEW Business Voice Go - Business Voice Go Lite - Base Package|package|30062|VoiceGo Lite
+PG1045|41456|Mobile - Mobile Managed MM2M 8 DATA Plan - Mandatory Package|package|41456|Managed MM2M 8 DATA Plan
+PG1045|41737|Mobile - Mobile Managed MM2M 5MB Plan - Mandatory Package|package|41737|M2M 5 MB
+PG1045|41738|Mobile - Mobile Managed MM2M 15MB Plan - Mandatory Package|package|41738|M2M 15 MB
+PG1045|41739|Mobile - Mobile Managed MM2M 250MB Plan - Mandatory Package|package|41739|M2M 250 MB
+PG1045|41740|Mobile - Mobile Managed MM2M 3GB Plan - Mandatory Package|package|41740|M2M 3 GB
+PG1045|41741|Mobile - Mobile Managed MM2M 5GB Plan - Mandatory Package|package|41741|M2M 5GB
+PG1045|41770|Z EXPIRED Mobile - MaxisONE Business Extra - Mandatory Package|package|41770|ONE Biz Extra
+PG1045|41802|Mobile - MaxisONE Share - Mandatory Package|package|41802|ONE Share
+PG1045|41809|Mobile - Mobile Managed MM2M 500MB Plan - Mandatory Package|package|41809|M2M 500 MB
+PG1045|41810|Mobile - Mobile Managed MM2M 1GB Plan - Mandatory Package|package|41810|M2M 1 GB
+PG1045|41814|Mobile - MaxisONE plan 98 - Mandatory Package|package|41814|ONE Plan 98
+PG1045|41815|Mobile - MaxisONE plan 128 - Mandatory Package|package|41815|ONE Plan 128
+PG1045|41822|Mobile - MaxisONE Share 188 - Mandatory Package|package|41822|ONE Share 188
+PG1045|41832|Mobile - Share Member - Mandatory Package|package|41832|FlexiShare Member
+PG1045|41836|Mobile - Biz Start 48 - Mandatory Package|package|41836|Biz Start 48
+PG1045|41837|Mobile - MaxisONE Business Plan 98 - Mandatory Package|package|41837|ONE Biz 98
+PG1045|41846|Mobile - MaxisONE Share 128 - Mandatory Package|package|41846|ONE Share 128
+PG1045|41861|Mobile - MaxisONE Share 98 - Mandatory Package|package|41861|ONE Share 98
+PG1045|41870|Mobile - MaxisONE Business Plan New 118 - Mandatory Package|package|41870|ONE Biz 118
+PG1045|41887|Mobile - MaxisONE Business 68 Sabah/Sarawak - Mandatory Package|package|41887|ONE BIZ 68
+PG1045|41888|Mobile - MaxisONE Business 128 - Mandatory Package|package|41888|ONE Biz 128
+PG1045|41889|Mobile - MaxisONE Business 158 - Mandatory Package|package|41889|ONE Biz 158
+PG1930|41896|Mobile - Mobile Business 4G WiFi 78 - Mandatory Package|package|41896|Go WiFi 78
+PG1930|41897|Z EXPIRED Mobile - MaxisONE Go WiFi 108 - Mandatory Package|package|41897|Go WiFi 108
+PG1930|41898|Z EXPIRED Mobile - MaxisONE Go WiFi 138 - Mandatory Package|package|41898|Go WiFi 138
+PG1035|41921|Mobile - Mobile IoT Large Plan 200GB 2 years - Mandatory Package|package|41921|M2M 200 GB RM450
+PG1045|41922|Z EXPIRED Mobile - Basic Value Plan - Mandatory Package|package|41922|Basic Value Plan
+PG1045|41924|Mobile - MaxisONE Business 108 - Mandatory Package|package|41924|ONE Biz 108
+PG1045|41927|Mobile MM2M 5GB 1Y Plan - Mandatory Package|package|41927|MM2M 5 GB RM60
+PG1045|41928|Mobile MM2M 10GB 1Y Plan - Mandatory Package|package|41928|M2M 10 GB
+PG1045|41929|Mobile MM2M 20GB 1Y Plan - Mandatory Package|package|41929|M2M 20 GB RM130
+PG1045|41930|Mobile MM2M 30GB 1Y Plan - Mandatory Package|package|41930|M2M 30 GB RM195
+PG1045|41931|Mobile MM2M 5GB 2Y Plan - Mandatory Package|package|41931|MM2M 5 GB RM50
+PG1045|41932|Mobile MM2M 10GB 2Y Plan - Mandatory Package|package|41932|M2M 10 GB RM65
+PG1045|41933|Mobile MM2M 20GB 2Y Plan - Mandatory Package|package|41933|M2M 20 GB RM110
+PG1045|41934|Mobile MM2M 30GB 2Y Plan - Mandatory Package|package|41934|M2M 30 GB RM165
+PG1035|41935|Mobile - Mobile IoT Large Plan 200GB 3 years - Mandatory Package|package|41935|M2M 200 GB RM320
+PG1045|41945|Mobile - Business Postpaid 158 - Mandatory Package|package|41945|ONEBiz Flexi 158
+PG1045|41960|Mobile - Hotlink Postpaid 60 - Mandatory Package|package|41960|Hotlink Flex Plus
+PG1045|41968|Mobile - Business Postpaid Share 48 - Mandatory Package|package|41968|Biz Flexi Smart 48
+PG1045|41973|Mobile - Mobile Managed MM2M Proton Factory Roaming Plan - Mandatory Package|package|41973|- Managed MM2M Proton Factory Roaming Plan - Mandatory Package
+PG1045|41974|Mobile - Mobile Managed MM2M Proton Factory Plan - Mandatory Package|package|41974|M2M Proton
+PG1045|41975|Mobile - Mobile Managed MM2M Proton 1GB (60months) Plan - Mandatory Package|package|41975|- Managed MM2M Proton 1GB (60months) Plan - Mandatory Package
+PG1035|42005|Mobile - Mobile IoT Flex Plan - Mandatory Package|package|42005|IoT Flex Plan
+PG1035|42007|Mobile - Mobile IoT Vertical Plan - Mandatory Package|package|42007|IoT Vertical
+PG1035|42037|Mobile - Mobile Managed IoT Large Rate Plan - Mandatory Package|package|42037|- Managed IoT Large Rate Plan - Mandatory Package
+PG1045|42040|Mobile - Business Postpaid For Digital Workspace - Mandatory Package|package|42040|- Business Postpaid For Digital Workspace - Mandatory Package
+PG1045|42041|Mobile - Business Postpaid 58 - Mandatory Package|package|42041|MBP 58
+PG1045|42042|Mobile - Business Postpaid 78 - Mandatory Package|package|42042|MBP 78
+PG1930|42044|Mobile - Mobile Business 4G WiFi 138 - Mandatory Package|package|42044|Biz 4G Wifi 138
+PG1035|42046|Mobile - Mobile Managed IoT Small Quota Rate Plan - Mandatory Package|package|42046|- Managed IoT Small Quota Rate Plan - Mandatory Package
+PG1045|50003|NEW Mobile - Business Postpaid Share 48 - Base Package|package|50003|Biz Postpaid Share 48
+PG1045|50004|NEW Mobile - Business Postpaid Data Plan 38 - Base Package|package|50004|NEW - Business Postpaid Data Plan 38 - Base Package
+PG1045|50005|NEW Mobile - Business Postpaid 98 - Base Package|package|50005|NEW MBP 98
+PG1045|50008|NEW Mobile - Business Postpaid 68 - Base Package|package|50008|NEW MBP 68
+PG1045|50009|NEW Mobile - Business Postpaid 108 - Base Package|package|50009|NEW MBP 108
+PG1045|50010|NEW Mobile - Business Postpaid 128 - Base Package|package|50010|NEW MBP 128
+PG1045|50011|NEW Mobile - Business Postpaid 158 - Base Package|package|50011|NEW MBP 158
+PG1045|50012|NEW Mobile - Business Postpaid 188 - Base Package|package|50012|NEW MBP 188
+PG1930|50016|NEW Mobile - Business 4G WiFi 168 - Base Package|package|50016|Mpower 4G Wifi 168
+PG1930|50017|Z EXPIRED NEW Mobile - Go WiFi 138 - Base Package|package|50017|Mpower 4G Wifi 138
+PG1045|50021|NEW Mobile Enterprise SMS - Enterprise SMS One Biz Lite - Base Package|package|50021|NEW Enterprise SMS - Enterprise SMS One Biz Lite - Base Package
+PG1045|50029|Mobile - Business Postpaid 79 - Base Package|package|50029|MBP 79
+PG1045|50030|Mobile - Business Postpaid 109 - Base Package|package|50030|MBP 109
+PG1045|50031|Mobile - Business Postpaid 139 - Base Package|package|50031|MBP 139
+PG1045|50032|Mobile - Business Postpaid 169 - Base Package|package|50032|MBP 169
+PG1045|50033|Mobile - Business Postpaid 199 - Base Package|package|50033|MBP 199
+PG1045|50034|Mobile - Business Postpaid 69 - Base Package|package|50034|MBP 69
+PG1035|50038|Mobile IoT TESLA Plan - Base Package|package|50038|IoT TESLA
+PG1930|50046|Mobile - Business AirFibre 79 - Base Package|package|50046|- Business AirFibre 79 - Base Package
+PG1930|50047|Mobile - Business AirFibre 149 - Base Package|package|50047|- Business AirFibre 149 - Base Package
+PG1035|50076|Mobile IOT EV(Z) Factory Roaming Plan - Base Package|package|50076|IOT EV(Z) Factory Roaming Plan - Base Package
+PG1035|50077|Mobile IOT EV(Z) Customer Plan - Base Package|package|50077|IOT EV(Z) Customer Plan - Base Package
+PG1930|50080|Mobile - Business AirFibre 139 For Education - Base Package|package|50080|- Business AirFibre 139 For Education - Base Package
+PG1035|50093|Mobile - Mobile IoT EV(E245) Factory Roaming & Local Plan - Base Package|package|50093|- IoT EV(E245) Factory Roaming & Local Plan - Base Package
+PG1035|50094|Mobile - Mobile IoT EV(E245) Customer Plan - Base Package|package|50094|- IoT EV(E245) Customer Plan - Base Package
+PG1010|80001|Z EXPIRED Business Fibre Dynamic - 100Mbps Package|package|80001|Dynamic 100 Mbps
+PG1010|80002|Z EXPIRED Business Fibre Dynamic - 300Mbps Package|package|80002|Dynamic 300 Mbps
+PG1010|80003|NEW Business Fibre Dynamic - 30Mbps Package|package|80003|Dynamic 30 Mbps
+PG1010|80004|Z EXPIRED Business Fibre Dynamic - 500Mbps Package|package|80004|Dynamic 500 Mbps
+PG1010|80005|NEW Business Fibre Dynamic - 800Mbps Package|package|80005|Dynamic 800 Mbps
+PG1010|80006|Z EXPIRED Business Fibre Fixed - 100Mbps Package|package|80006|Fixed 100 Mbps
+PG1010|80007|Z EXPIRED Business Fibre Fixed - 300Mbps Package|package|80007|Fixed 300 Mbps
+PG1010|80008|NEW Business Fibre Fixed - 30Mbps Package|package|80008|Fixed 30 Mbps
+PG1010|80009|Z EXPIRED Business Fibre Fixed - 500Mbps Package|package|80009|Fixed 500 Mbps
+PG1010|80010|NEW Business Fibre Fixed - 800Mbps Package|package|80010|Fixed 800 Mbps
+PG1010|80027|Z EXPIRED Business Fibre Dynamic - 1Gbps Package|package|80027|Dynamic 1Gbps
+PG1010|80028|Z EXPIRED Business Fibre Fixed - 1Gbps Package|package|80028|Fixed 1Gbps
+PG1010|80038|Business Fibre Dynamic - 100Mbps V2 Package|package|80038|Dynamic 100Mbps
+PG1010|80039|Business Fibre Dynamic - 300Mbps V2 Package|package|80039|Dynamic 300Mbps
+PG1010|80040|Business Fibre Dynamic - 500Mbps V2 Package|package|80040|Dynamic 500Mbps
+PG1010|80041|Business Fibre Dynamic - 1Gbps V2 Package|package|80041|Dynamic 1Gbps
+PG1010|80042|Business Fibre Fixed - 100Mbps V2 Package|package|80042|Fixed 100Mbps
+PG1010|80043|Business Fibre Fixed - 300Mbps V2 Package|package|80043|Fixed 300Mbps
+PG1010|80044|Business Fibre Fixed - 500Mbps V2 Package|package|80044|Fixed 500 Mbps
+PG1010|80045|Business Fibre Fixed - 1Gbps V2 Package|package|80045|Fixed 1Gbps
+PG1040|49451|Mobile - Business 4G WiFi 138 UNLIMITED Monthly|component|49451|Business 4G WiFi 138 UNLIMITED Monthly
+PG1930|49451|Mobile - Business 4G WiFi 138 UNLIMITED Monthly|component|49451|Business 4G WiFi 138 UNLIMITED Monthly
+PG1040|50024|Mobile - Business 4G WiFi UNLIMITED Monthly|component|50024|Business 4G WiFi UNLIMITED Monthly
+PG1930|50024|Mobile - Business 4G WiFi UNLIMITED Monthly|component|50024|Business 4G WiFi UNLIMITED Monthly
+PG1045|50040|Mobile - Telephony|component|50040|SMS Biz Lite
+PG1020|-183|Dedicated Internet Access UBI 30Mbps (RM1299/Mth)|component|-183|DIA 30Mbps
+PG1020|-181|Dedicated Internet Access UBI 10Mbps (RM999/Mth)|component|-181|DIA 10 Mbps
+PG1010|9547|Business Fibre Dynamic - 16Mbps With WBB (RM198/Mth)|component|9547|BizFibre Dynamic - 16Mbps With WBB (RM198/Mth)
+PG1010|9624|Business Fibre Dynamic - 30Mbps (RM99/Mth)|component|9624|BizFibre Dynamic - 30Mbps (RM99/Mth)
+PG1010|9625|Business Fibre Dynamic - 100Mbps (RM139/Mth)|component|9625|BizFibre Dynamic - 100Mbps (RM139/Mth)
+PG1010|9626|Business Fibre Fixed - 30Mbps (RM299/Mth)|component|9626|BizFibre Fixed - 30Mbps (RM299/Mth)
+PG1010|9627|Business Fibre Fixed - 100Mbps (RM339/Mth)|component|9627|BizFibre Fixed - 100Mbps (RM339/Mth)
+PG1010|9628|Business Fibre - Internet Security (RM45/Mth)|component|9628|Safe Internet
+PG1010|9639|Business Fibre - Access Fee Discount (RM20 X 24Mths)|component|9639|Business Fibre - Access Fee Discount (RM20 X 24Mths)
+PG1010|9658|Business Fibre Dynamic - 300Mbps (RM199/Mth)|component|9658|BizFibre Dynamic - 300Mbps (RM199/Mth)
+PG1010|9659|Business Fibre Dynamic - 500Mbps (RM269/Mth)|component|9659|BizFibre Dynamic - 500Mbps (RM269/Mth)
+PG1010|9660|Business Fibre Dynamic - 800Mbps (RM349/Mth)|component|9660|BizFibre Dynamic - 800Mbps (RM349/Mth)
+PG1010|9661|Business Fibre Fixed - 300Mbps (RM399/Mth)|component|9661|BizFibre Fixed - 300Mbps (RM399/Mth)
+PG1010|9662|Business Fibre Fixed - 500Mbps (RM469/Mth)|component|9662|BizFibre Fixed - 500Mbps (RM469/Mth)
+PG1010|9663|Business Fibre Fixed - 800Mbps (RM549/Mth)|component|9663|BizFibre Fixed - 800Mbps (RM549/Mth)
+PG1935|9735|Astro Home DTH 30Mbps RM89|component|9735|Astro Home DTH 30Mbps RM89
+PG1050|23203|Business Voice Enhanced - Telephony|component|23203|ONEBiz Connect
+PG1050|23264|Business Voice Go - Business Voice Go Lite (RM10)|component|23264|VoiceGo Lite
+PG1050|23265|Business Voice Go - Business Voice Go 5 (RM30)|component|23265|VoiceGo 5
+PG1050|23269|Z EXPIRED Business Voice Go - Business Voice Go 10 Migrated (RM80)|component|23269|VoiceGo AA 10
+PG1050|23271|Business Voice Go - Business Voice Go Auto Attendant 10 (RM150)|component|23271|VoiceGo AA
+PG1050|23287|Business Voice Go - Business Voice Go 1 (RM20)|component|23287|VoiceGo 1
+PG1050|23298|Business Voice Go - Business Voice Go Lite Rebate (RM10 X 24 Mths)|component|23298|Business Voice Go - Business Voice Go Lite Rebate (RM10 X 24 Mths)
+PG1050|23299|Z EXPIRED Business Voice Enhanced - Business Voice Connect App (RM5/Mth)|component|23299|Voice Connect Softphone
+PG1050|30001|Business Voice Enhanced - Telephony|component|30001|VConnect SP Bun
+PG1050|30006|Business Voice Go - Business Voice Go Lite (RM10)|component|30006|VoiceGo Lite
+PG1045|40691|Mobile - S/B Pkg (Basic)=RM1300|component|40691|S/B Pkg (Basic)=RM1300
+PG1045|44884|Mobile - Multi-SIM (MISM) RM15 Fee|component|44884|MISM
+PG1045|45602|Mobile - Mobile Internet Mthly 1GB Add-On (RM30)|component|45602|Mobile Internet Mthly 1GB Add-On (RM30)
+PG1045|45604|Mobile - Mobile Internet Mthly 3GB Add-On (RM58)|component|45604|Mobile Internet Mthly 3GB Add-On (RM58)
+PG1015|45783|Z EXPIRED Mobile - mPOS Mthly Fee with Free 30MB Data (RM25)|component|45783|Z EXPIRED mPOS Mthly Fee with Free 30MB Data (RM25)
+PG1045|45947|Mobile - Mobile Internet Mthly 6GB Add-On (RM116)|component|45947|Mobile Internet Mthly 6GB Add-On (RM116)
+PG1045|46313|Mobile - Telephony|component|46313|SMS Lite Plus
+PG1045|46314|Mobile - Telephony|component|46314|SMS Biz Lite
+PG1045|46315|Mobile - Telephony|component|46315|SMS Medium Plus
+PG1015|47691|Mobile - VAS ABF -mPOS Chip and PIN Reader Mthly Fee with Free 30MB Data (RM33)|component|47691|mPOS Reader
+PG1040|48224|Mobile - Business 4G WiFi 78 30GB Monthly|component|48224|Business 4G WiFi 78 30GB Monthly
+PG1930|48224|Mobile - Business 4G WiFi 78 30GB Monthly|component|48224|Business 4G WiFi 78 30GB Monthly
+PG1930|48226|Mobile - MaxisONE Go WiFi - Mobile Internet 35GB Monthly|component|48226|MaxisONE Go WiFi - Mobile Internet 35GB Monthly
+PG1930|48228|Mobile - Business WiFi - Mobile Internet UNLIMITED Monthly|component|48228|MaxisONE Go WiFi - Mobile Internet 65GB Monthly
+PG1045|48375|Mobile - SafeDevice (RM2,001 - RM3,000)|component|48375|SafeD (RM2k - RM3k)
+PG1045|48376|Mobile - SafeDevice (RM3,001 - RM4,000)|component|48376|SafeD (RM3k - RM4k)
+PG1045|48377|Mobile - SafeDevice (RM4,001 - RM4,800)|component|48377|SafeD (RM4k - RM4.8k)
+PG1045|48472|Mobile - SafeDevice (RM4,801 - RM6,000)|component|48472|SafeD (RM4.8k - RM6k)
+PG1045|48725|Mobile - SafeDevice ( RM6,001 - RM7,100)|component|48725|SafeD (RM6k - RM7k)
+PG1010|80029|Business Fibre Fixed - 1Gbps (RM549/Mth)|component|80029|Business Fibre Fixed - 1Gbps (RM549/Mth)
+PG1010|80046|Business Fibre Fixed - 1Gbps (RM499/Mth)|component|80046|Business Fibre Fixed - 1Gbps (RM499/Mth)
