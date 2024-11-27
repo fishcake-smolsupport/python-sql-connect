@@ -11,7 +11,7 @@ if not CONFIG:
 
 @logger
 def paneldata_show():
-    incentive_env = DatabaseConnector(CONFIG['INC_KEY'])
+    incentive_env = DatabaseConnector(CONFIG['PRD_KEY'])
     
     with open(CONFIG['PORTAL'], 'r') as file: 
         sql_statement = file.read()
