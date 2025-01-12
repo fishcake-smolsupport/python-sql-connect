@@ -1,4 +1,7 @@
-#Ignore script-generated files.
+# General input file, frequently subject to changes - not worth tracking.
+sql_portal.sql
+
+# Script-generated files.
 *.csv
 *.psv
 *.tsv
