@@ -1,3 +1,6 @@
+# VS Code workspace cache
+.vscode/
+
 # General input file, frequently subject to changes - not worth tracking.
 sql_portal.sql
 
