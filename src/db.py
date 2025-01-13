@@ -1,39 +1,6 @@
-from sqlalchemy import create_engine, exc, text
+import logging
 import pandas as pd
-
-# class ResultSet:
-#     def __init__(self, result_proxy, batch_size=1000):
-#         """
-#         Initialize ResultSet with a result proxy and optional batch size for chunking.
-        
-#         :param result_proxy: The result set proxy from SQLAlchemy query execution.
-#         :param batch_size: Number of rows to retrieve per chunk.
-#         """
-#         self.result_proxy = result_proxy
-#         self.batch_size = batch_size
-#         self.column_names = result_proxy.keys() if result_proxy else []
-
-#     def as_dataframe(self) -> pd.DataFrame:
-#         """Convert the result proxy to a DataFrame in manageable chunks."""
-#         frames = []
-#         if self.result_proxy is None:
-#             print("Error: No results to convert.")
-#             return pd.DataFrame()
-
-#         # Fetch rows in chunks and add to frames
-#         while True:
-#             rows = self.result_proxy.fetchmany(self.batch_size)
-#             if not rows:
-#                 break
-#             frames.append(pd.DataFrame(rows, columns=self.column_names))
-
-#         # Return empty DataFrame if frames are empty, avoiding concat error
-#         if not frames:
-#             print("No data retrieved.")
-#             return pd.DataFrame(columns=self.column_names)
-        
-#         return pd.concat(frames, ignore_index=True)
-
+from sqlalchemy import create_engine, exc, text
 
 class DatabaseConnector:
     def __init__(self, database_url: str):
@@ -44,7 +11,6 @@ class DatabaseConnector:
         """
         self.database_url = database_url
         self.engine = self._create_engine()
-        self.result_set = None  # Initialize an empty result_set attribute
 
     def _create_engine(self):
         """Create and return a SQLAlchemy engine."""
@@ -76,13 +42,17 @@ class DatabaseConnector:
 
                 # Concatenate all frames to form the final DataFrame
                 if frames:
-                    return pd.concat(frames, ignore_index=True)
+                    df = pd.concat(frames, ignore_index=True)
+                    logging.info(f"Data retrieved successfully: {df.shape}")
+                    return df
                 else:
                     print("No data retrieved.")
                     return pd.DataFrame(columns=column_names)
                 
         except exc.SQLAlchemyError as e:
-            print(f"Error executing query: {e}")
+            str_e = str(e)
+            err = "\n".join(str_e.splitlines()[:3])
+            print(f"Error executing query: {err}")
             return pd.DataFrame()
 
     def execute_commit(self, statement: str) -> bool:
@@ -99,7 +69,9 @@ class DatabaseConnector:
             return True
         
         except exc.SQLAlchemyError as e:
-            print(f"Error executing commit query: {e}")
+            str_e = str(e)
+            err = "\n".join(str_e.splitlines()[:3])
+            print(f"Error executing commit query: {err}")
             if 'transaction' in locals():
                 transaction.rollback()
             return False
